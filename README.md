@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rishad</h1>
 <h3 align="center">A passionate Full Stack Developer, crafting seamless and dynamic web experiences.</h3>
 
-- 💬 Ask me about **JavaScript, React, Next, Mongodb, Node, Express**
+- Ask me about **JavaScript, React, Next, Mongodb, Node, Express**
 
-- 📫 How to reach me **rishadkarappa@gmail.com**
+- Reach me **rishadkarappa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

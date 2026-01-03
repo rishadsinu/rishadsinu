@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rishad</h1>
-<h3 align="center">A passionate Full Stack Developer, crafting seamless and dynamic web experiences.</h3>
-
-- Ask me about **JavaScript, React, Mongodb, Node, Express**
+<h3 align="center">MERN Stack Developer, crafting seamless and dynamic web experiences.</h3>
 
 - Reach me **rishadkarappa@gmail.com**
 

@@ -1,2 +1,3 @@
-<h1 align="center">Hi 👋, I'm Muhammed Rishad</h1>
-<h3 align="center">Building Clean & Scalable | MERN Stack Developer | System Design | SaaS & Cloud Solutions</h3>
+I'am Muhammed Rishad Karappa
+MERN Stack Developer | System Design Enthusiast | SaaS Products | Building Clean & Scalable
+- rishadkarappa@gmail.com

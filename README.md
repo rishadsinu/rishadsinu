@@ -1,4 +1,2 @@
-I'am Muhammed Rishad Karappa  
-MERN Stack Developer | System Design Enthusiast | SaaS Products | Building Clean & Scalable  
-
-[![I'am](https://img.shields.io/badge/Website-rishad.is--a.dev-blue?style=for-the-badge)](https://rishad.is-a.dev)
+👋 I’m  [Muhammed Rishad Karappa](https://rishad.is-a.dev)  
+Scaling Products with Microservices | MERN Stack Developer | Clean Architecture & SOLID Principles | System Design Enthusiast | Building SaaS Solutions
